@@ -1,5 +1,7 @@
 # Overfitting & Underfitting Lab — an educational simulator of overfitting and underfitting
 
+Русская версия: [README_RU.md](README_RU.md).
+
 Project 10 of 13 in the educational neural-network simulator series.
 A single-file Python and Tkinter application: standard library only, no external
 packages, no network and no dependency installation.
